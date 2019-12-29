@@ -4,34 +4,22 @@
       "id": 1,
       "message": "Changed hard drive on workstation 005",
       "attention": false,
-      "data": "03-02-2019",
+      "date": "03-02-2019",
       "tech": "Sam Smith"
     },
     {
       "id": 2,
       "message": "Workstation 007 not posting",
       "attention": true,
-      "data": "03-02-2019",
+      "date": "03-02-2019",
       "tech": "John Doe"
     },
     {
       "id": 3,
       "message": "Changed memory on workstation 050",
       "attention": false,
-      "data": "03-02-2019",
+      "date": "03-02-2019",
       "tech": "Sara Wilson"
-    },
-    {
-      "name": "Iniesta",
-      "email": "iniesta@email.com",
-      "phone": "11-222-111",
-      "id": 4
-    },
-    {
-      "name": "Iniesta",
-      "email": "iniesta@email.com",
-      "phone": "11-222-111",
-      "id": 5
     }
   ],
   "techs": [
