@@ -1,17 +1,17 @@
 {
   "logs": [
     {
-      "message": "Changed network card on server 007",
+      "id": 1,
+      "message": "Fixed network card on server 007",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-01-01T13:36:57.737Z",
-      "id": 1
+      "tech": "John Doe",
+      "date": "2020-01-01T16:30:17.804Z"
     },
     {
-      "message": "Hard drive failed on station 002",
+      "message": "Server crashed 008",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2020-01-01T13:37:30.470Z",
+      "tech": "Sara Wilson",
+      "date": "2020-01-01T16:46:15.880Z",
       "id": 2
     }
   ],
