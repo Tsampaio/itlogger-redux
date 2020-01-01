@@ -6,6 +6,13 @@
       "attention": false,
       "tech": "John Doe",
       "date": "2020-01-01T16:30:17.804Z"
+    },
+    {
+      "message": "Server crashed 008",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-01-01T16:46:15.880Z",
+      "id": 2
     }
   ],
   "techs": [
