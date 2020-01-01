@@ -6,13 +6,6 @@
       "tech": "Sara Wilson",
       "date": "2020-01-01T13:36:57.737Z",
       "id": 1
-    },
-    {
-      "message": "Hard drive failed on station 002",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-01-01T13:37:30.470Z",
-      "id": 2
     }
   ],
   "techs": [
